@@ -1,0 +1,2 @@
+Using sound data from Index 4 and 14 and utilizing Index 15 for information,
+here are the patches of the Old School RuneScape soundbank as a soundfont.
