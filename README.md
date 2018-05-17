@@ -1,5 +1,5 @@
-# OSRS-Sound-Data
-A repository containing sound data from Old School RuneScape in a readable (or listenable) format.
+# OSRS-Soundbank-Data
+A repository containing soundbank data from Old School RuneScape in a readable (or listenable) format.
 
 
 How it's organized - an example:
